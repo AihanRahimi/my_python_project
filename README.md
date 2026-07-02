@@ -1,3 +1,5 @@
-This project includes simple Python scripts and exercises focused on learning Python basics such as variables, loops, functions, and problem-solving.
+Dieses Projekt enthält einfache Python-Skripte und Übungen, die sich auf das Erlernen der Grundlagen von Python konzentrieren, einschließlich Variablen, Schleifen, Funktionen und Problemlösung.
 
-It is mainly for practice and improving programming skills with Python and Git/GitHub.
+Der Hauptzweck dieses Projekts ist das Üben und die Verbesserung der Programmierfähigkeiten mit Python sowie das Erlernen von Git- und GitHub-Workflows.
+
+Es hilft dabei, eine solide Grundlage in Programmierung und Versionskontrolle aufzubauen.
