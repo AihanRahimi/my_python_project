@@ -1,3 +1,4 @@
+#user enter second and this code show all days,hours,min,sec
 seconds = int(input('enter seconds:'))
 days = seconds//86400
 x = seconds % 86400
